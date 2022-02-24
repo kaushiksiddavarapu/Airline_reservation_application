@@ -1,0 +1,23 @@
+{
+  "name": "airline_reservation_application",
+  "version": "1.0.0",
+  "description": "A node.js Express application with responsive UI and MongoDB for database, build for Software Engineering project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushiksiddavarapu/Airline_reservation_application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushiksiddavarapu/Airline_reservation_application/issues"
+  },
+  "homepage": "https://github.com/kaushiksiddavarapu/Airline_reservation_application#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
