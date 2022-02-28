@@ -19,6 +19,8 @@
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "middleware": "^1.0.0",
     "morgan": "^1.10.0"
   }
 }
